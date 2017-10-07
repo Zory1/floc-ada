@@ -19,3 +19,22 @@ shell-server@0.2.4            # Server-side component of the `meteor shell` comm
 autopublish@1.0.7             # Publish all data to the clients (for prototyping)
 insecure@1.0.7                # Allow all DB writes from clients (for prototyping)
 angular2-compilers
+kadira:blaze-layout
+zimme:active-route
+abpetkov:switchery
+rgnevashev:select2
+summernote:summernote
+vansonhk:bootstrap3-datepicker
+gilbertwat:bootstrap3-daterangepicker
+rcy:nouislider
+postrednik:meteor-rangeslider
+themeteorchef:jquery-validation
+ryanswapp:interactjs
+isotope:isotope
+iamkevingreen:imagesloaded
+snamoah:bootstrap-wizard
+coursierprive:tether
+momentjs:moment@2.8.4
+cwaring:modernizr
+gromo:jquery.scrollbar
+fortawesome:fontawesome
